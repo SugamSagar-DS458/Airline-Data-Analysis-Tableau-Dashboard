@@ -62,7 +62,7 @@ Airline-Data-Analysis-Tableau/
    - 
 3. **Data source**
    - The packaged workbook (`.twbx`) already embeds the data extract, so no extra setup is needed.
-   - If you want to rebuild from raw data, point the workbook's data connection to `data/airline_data.csv`.
+   - [If you want to rebuild from raw data, point the workbook's data connection to](https://github.com/SugamSagar-DS458/Airline-Data-Analysis-Tableau-Dashboard/blob/main/Airline%20Data.xlsx)
 
 ## 🧮 Tech / Tools
 
@@ -79,10 +79,6 @@ Airline-Data-Analysis-Tableau/
 - Business class fares average roughly **8x** economy fares (₹52,540 vs ₹6,572).
 - Prices generally trend downward the further out a ticket is booked, then spike as the departure date nears.
 - Flights with two-or-more stops show the widest fare variance across the dataset.
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
