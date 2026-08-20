@@ -33,10 +33,6 @@ An interactive Tableau dashboard analyzing airline ticket pricing, routes, and m
 - **Click-to-filter on the Airline Market Share chart** — clicking a slice (e.g. Air India, Vistara) cross-filters every other chart on the dashboard to that airline
 - **NEXT navigation button** — moves to the next view/story point in the workbook
 
-<p align="center">
-  <img src="docs/images/dashboard-filtered-example.png" width="80%" alt="Dashboard filtered example" />
-</p>
-
 ## 🗂️ Repository Structure
 
 ```
