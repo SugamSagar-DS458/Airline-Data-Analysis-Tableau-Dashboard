@@ -57,8 +57,9 @@ Airline-Data-Analysis-Tableau/
    cd Airline-Data-Analysis-Tableau
    ```
 2. **Open the workbook**
-   - Install [Tableau Desktop]([https://www.tableau.com/products/desktop](https://public.tableau.com/views/Airline_Price_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
+   - [Tableau Public](https://public.tableau.com/).
    - Open `tableau/Airline_Data_Analysis.twbx`.
+   - 
 3. **Data source**
    - The packaged workbook (`.twbx`) already embeds the data extract, so no extra setup is needed.
    - If you want to rebuild from raw data, point the workbook's data connection to `data/airline_data.csv`.
