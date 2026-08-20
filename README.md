@@ -70,7 +70,7 @@ Airline-Data-Analysis-Tableau/
 
 ## 🔗 Live Dashboard
 
-> [](https://public.tableau.com/views/Airline_Price_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> [My Public Dashboard](https://public.tableau.com/views/Airline_Price_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📈 Key Insights
 
