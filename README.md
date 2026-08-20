@@ -62,7 +62,7 @@ Airline-Data-Analysis-Tableau/
    - 
 3. **Data source**
    - The packaged workbook (`.twbx`) already embeds the data extract, so no extra setup is needed.
-   - [If you want to rebuild from raw data, point the workbook's data connection to](https://github.com/SugamSagar-DS458/Airline-Data-Analysis-Tableau-Dashboard/blob/main/Airline%20Data.xlsx)
+   - [If you want to rebuild from raw data, point the workbook's data connection](https://github.com/SugamSagar-DS458/Airline-Data-Analysis-Tableau-Dashboard/blob/main/Airline%20Data.xlsx)
 
 ## 🧮 Tech / Tools
 
