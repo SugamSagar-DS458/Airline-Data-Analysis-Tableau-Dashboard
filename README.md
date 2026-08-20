@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard analyzing airline ticket pricing, routes, and market share across six major Indian cities. Built to explore how price varies by airline, stops, class, booking window, and source–destination pairs.
 
-![Dashboard Overview]([docs/images/dashboard-overview.png](https://github.com/SugamSagar-DS458/Airline-Data-Analysis-Tableau-Dashboard/blob/main/Screenshot%202026-08-20%20133214.png))
+![Dashboard Overview](docs/images/dashboard-overview.png)
 
 ---
 
@@ -61,7 +61,7 @@ Airline-Data-Analysis-Tableau/
    cd Airline-Data-Analysis-Tableau
    ```
 2. **Open the workbook**
-   - Install [Tableau Desktop](https://www.tableau.com/products/desktop) or use [Tableau Public](https://public.tableau.com/).
+   - Install [Tableau Desktop]([https://www.tableau.com/products/desktop](https://public.tableau.com/views/Airline_Price_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
    - Open `tableau/Airline_Data_Analysis.twbx`.
 3. **Data source**
    - The packaged workbook (`.twbx`) already embeds the data extract, so no extra setup is needed.
@@ -71,11 +71,10 @@ Airline-Data-Analysis-Tableau/
 
 - **Tableau Desktop / Public** — dashboard authoring
 - **CSV** — underlying flight-price dataset
-- Optional: **Tableau Public profile link** — add yours below once published
 
 ## 🔗 Live Dashboard
 
-> - (https://public.tableau.com/views/Airline_Price_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> [](https://public.tableau.com/views/Airline_Price_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📈 Key Insights
 
@@ -84,6 +83,9 @@ Airline-Data-Analysis-Tableau/
 - Prices generally trend downward the further out a ticket is booked, then spike as the departure date nears.
 - Flights with two-or-more stops show the widest fare variance across the dataset.
 
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
