@@ -58,7 +58,7 @@ Airline-Data-Analysis-Tableau/
    ```
 2. **Open the workbook**
    - [Tableau Public](https://public.tableau.com/).
-   - Open `tableau/Airline_Data_Analysis.twbx`.
+   - [Open](https://github.com/SugamSagar-DS458/Airline-Data-Analysis-Tableau-Dashboard/blob/main/Airline_Price_Analysis_Tableau.twbx)
    - 
 3. **Data source**
    - The packaged workbook (`.twbx`) already embeds the data extract, so no extra setup is needed.
