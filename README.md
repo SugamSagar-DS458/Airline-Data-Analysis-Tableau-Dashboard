@@ -75,8 +75,7 @@ Airline-Data-Analysis-Tableau/
 
 ## 🔗 Live Dashboard
 
-> Add your published Tableau Public link here once you publish it, e.g.:
-> `https://public.tableau.com/app/profile/<your-profile>/viz/AirlineDataAnalysis`
+> - (https://public.tableau.com/views/Airline_Price_Analysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📈 Key Insights
 
