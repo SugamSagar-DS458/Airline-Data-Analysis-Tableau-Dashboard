@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard analyzing airline ticket pricing, routes, and market share across six major Indian cities. Built to explore how price varies by airline, stops, class, booking window, and source–destination pairs.
 
-![Dashboard Overview]([docs/images/dashboard-overview.png](https://github.com/SugamSagar-DS458/Airline-Data-Analysis-Tableau-Dashboard/blob/main/Screenshot%202026-08-20%20133214.png))
+![Dashboard Overview](https://github.com/SugamSagar-DS458/Airline-Data-Analysis-Tableau-Dashboard/blob/main/Screenshot%202026-08-20%20133214.png)
 
 ---
 
